@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Rádios - EB",
+  "description": "Sistema de gerenciamento e planilha de cautela de equipamentos de rádio do Exército Brasileiro.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
